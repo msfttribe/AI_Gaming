@@ -5,11 +5,10 @@ Could you code a bot to win a game?<br><br>
 - You will use your basic python knowledge to complete a simple bot, which will compete in a fun tournament.
 - You will learn about MS Azure, Computer Vision cognitive services, AI Gaming platform.
 <br />
-_AIgaming.com is a platform that allows computer programs - also known as bots, to play each other at challenging games to win bitcoin._
-_Isn't it awesome?_ 😍
+AIgaming.com is a platform that allows computer programs - also known as bots, to play each other at challenging games to win bitcoin.
+_Isn't it awesome?_ 
 
 <p align="center">
-<img src="https://github.com/MSPImpact/AI_Gaming/blob/master/photos_for_readme/Picture1.jpg" height="550" width="550">
 </p>  
 
 - Tutorial: [AI-GAMING](https://www.youtube.com/watch?v=lqFmz5-OVA0&list=PLVACl7F2s1BehsJ5oXkNdMZaej_QV8CnS)<br>
@@ -19,13 +18,13 @@ _Isn't it awesome?_ 😍
 
 ------------------------------------------------------
 ### 1. Get the Azure account
-- Steps to redeem voucher codes: [Process to redeem the voucher code](https://github.com/MSPImpact/AI_Gaming/blob/master/Process%20to%20redeem%20the%20voucher%20code.md)
-- If voucher code is not available, you can use your .edu/.ac/any-college-domain email address.
-- Otherwise, you can use your card for the trail sub. 
+- Activate Azure for Students
+(http://aka.ms/Azure4Students)
+- If you can't access activate it drop a mail to yashjoshi@studentpartner.com with your full Name and College Email ID, and we will send to the Azure Key.
 
 ------------------------------------------------------
 ### 2. Steps for registering to tournament
-1. Visit this link (Valid till April 13, 2020): [AI Gaming tournament sign up link](https://www.aigaming.com/event?code=254-340-932)
+1. Visit this link (Valid till April 18, 2020): [AI Gaming tournament sign up link](https://www.aigaming.com/event?code=135-844-867)
 2. Click on the link for the event.
 3. Click on Sign up
 4. Enter Email and Password.
